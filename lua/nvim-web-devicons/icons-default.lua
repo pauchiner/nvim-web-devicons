@@ -143,6 +143,12 @@ local icons_by_filename = {
     cterm_color = "33",
     name = "PrettierConfig",
   },
+  [".prettierignore"] = {
+    icon = "",
+    color = "#4285F4",
+    cterm_color = "33",
+    name = "PrettierConfig",
+  },
   [".settings.json"] = {
     icon = "",
     color = "#854CC7",
